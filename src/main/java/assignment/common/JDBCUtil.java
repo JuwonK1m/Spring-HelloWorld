@@ -1,4 +1,4 @@
-package Assignment.common;
+package assignment.common;
 
 public class JDBCUtil {
 }
