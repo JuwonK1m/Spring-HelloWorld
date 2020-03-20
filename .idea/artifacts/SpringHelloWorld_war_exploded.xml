@@ -16,6 +16,9 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.18.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.18.RELEASE" />
           <element id="library" level="application" name="Spring MVC-3.2.18.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.18.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.2.18.RELEASE" />
         </element>
       </element>
     </root>

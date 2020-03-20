@@ -1,16 +1,13 @@
 package assignment.service;
 
 import org.springframework.stereotype.Service;
-import org.springframework.util.StopWatch;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 @Service("searchServiceImpl")
 public class SearchServiceImpl implements SearchService {
-
-    List<Integer> arr;
-    StopWatch stopWatch;
+    private List<Integer> arr;
 
     public SearchServiceImpl() {
         arr = new ArrayList();
